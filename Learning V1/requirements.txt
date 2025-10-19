@@ -1,0 +1,59 @@
+# Dependencies for Python Learning Course
+
+# No external dependencies required for basic lessons
+# Python 3.12+ standard library is sufficient
+
+# Optional: For enhanced learning experience
+# Uncomment packages as needed for specific lessons
+
+# =====================================
+# Code Quality & Formatting
+# =====================================
+# black==24.1.1              # Code formatter
+# pylint==3.0.3              # Code linter
+# flake8==7.0.0              # Style checker
+
+# =====================================
+# Testing (Lesson 25)
+# =====================================
+# pytest==7.4.4              # Testing framework
+# pytest-cov==4.1.0          # Coverage reports
+
+# =====================================
+# Web Development (Advanced Lessons)
+# =====================================
+# requests==2.31.0           # HTTP library for APIs
+# beautifulsoup4==4.12.3     # Web scraping
+# flask==3.0.1               # Web framework (optional)
+
+# =====================================
+# Data Science (Optional)
+# =====================================
+# numpy==1.26.3              # Numerical computing
+# pandas==2.1.4              # Data manipulation
+# matplotlib==3.8.2          # Data visualization
+
+# =====================================
+# Development Tools
+# =====================================
+# jupyter==1.0.0             # Interactive notebooks
+# ipython==8.20.0            # Enhanced Python shell
+
+# =====================================
+# Database (Lesson 30)
+# =====================================
+# No additional packages needed - sqlite3 is built-in
+
+# =====================================
+# Notes
+# =====================================
+# Install all dependencies:
+# pip install -r requirements.txt
+
+# Install specific package:
+# pip install package_name
+
+# Create virtual environment first:
+# python -m venv venv
+# venv\Scripts\activate  (Windows)
+# source venv/bin/activate  (macOS/Linux)
