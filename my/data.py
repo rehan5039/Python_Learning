@@ -23,5 +23,18 @@ Rehan #string
 [] = list
 () = tuple
 {} = Dictionary
+{} = Sets
+
+
+## Dictionary
+dictonary ={
+    "Harry": 100,
+    "Rehan": 86,
+    "Rohan": 36
+}
+
+
+## Sets
+sets = {1,4,35}
 
 """
